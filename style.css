@@ -1,0 +1,23 @@
+body{ 
+    background-image: url("colores.jpg");
+    background-size: cover;
+}
+
+#frase{
+
+    color: red;
+    font-size: 5em;
+
+}
+
+
+#frase2{
+
+    color: whitesmoke
+    font-size: 0.8em;
+}
+#carousel {
+    widh:400px ;
+    margin:0 auto ;
+}
+.
